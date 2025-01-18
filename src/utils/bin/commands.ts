@@ -149,7 +149,7 @@ export const banner = (args?: string[]): string => {
 ██████╔╝██║░░██║██║░░██║██║░╚██╗██║░╚███║███████╗░░░██║░░░
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝░░░╚═╝░░░
 
-Welcome to darknet.ca home of many dark projects... 
+Welcome to darknet.ca home of many dark projects.     Ver 0.23b
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
