@@ -152,6 +152,6 @@ export const banner = (args?: string[]): string => {
 Welcome to darknet.ca home of many dark projects.     Ver 0.23b
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
-To contact admin click <u><a class="text-light-blue dark:text-dark-blue underline" href="mailto:admin@darknet.ca" target="_blank">here</a></u> to email admin@darknet.ca.
+To contact click <u><a class="text-light-blue dark:text-dark-blue underline" href="mailto:admin@darknet.ca" target="_blank">here</a></u> to email.
 `;
 };
