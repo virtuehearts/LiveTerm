@@ -149,9 +149,10 @@ export const banner = (args?: string[]): string => {
 ██████╔╝██║░░██║██║░░██║██║░╚██╗██║░╚███║███████╗░░░██║░░░
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝░░░╚═╝░░░
 
-Welcome to darknet.ca home of many dark projects.     Ver 0.23b
+Welcome to darknet.ca home of many projects.       Ver 0.23b
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 To contact "administrator" click <u><a class="text-light-blue dark:text-dark-blue underline" href="mailto:admin@darknet.ca" target="_blank">here</a></u> to email admin@darknet.ca
+For AI project inquirys go here <u><a class="text-light-blue dark:text-dark-blue underline" href="https://ai.darknet.ca" target="_blank">ai.darknet.ca</a></u> for info.
 `;
 };
