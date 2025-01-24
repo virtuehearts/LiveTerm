@@ -49,6 +49,13 @@ export const donate = async (args: string[]): Promise<string> => {
 here are the ways you can support my work:
 - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.paypal}" target="_blank">paypal</a></u>
 - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.patreon}" target="_blank">patreon</a></u>
+Also my bitcoin address: 
+bc1q9eujwgks3r8sx2tscd68m9wsh7af2wkgry2w4n
+Etherium address:
+0x62A1Fa669845feB1ff8781f8F9423A9581580419
+Solana address:
+2ELvbDGQ6oh2WhrQPQA6e6ahDt2fAUmvsvmzraWbDunh
+
 `;
 };
 
